@@ -190,27 +190,6 @@ DIVIDE(
 
 ---
 
-# Project Structure
-
-```text
-Shipping-Analytics-Dashboard/
-│
-├── README.md
-├── Shipping_Analytics.pbix
-├── Dataset/
-│   └── shipping_data.xlsx
-├── Screenshots/
-│   ├── executive_overview.png
-│   ├── operations_analysis.png
-│   └── revenue_analysis.png
-├── DAX/
-│   └── measures.md
-└── Documentation/
-    └── project_overview.pdf
-```
-
----
-
 # Key Learnings
 
 Through this project, I gained practical experience in:
